@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I am a backend developer and I like Java and Go language
+- 🌱 I aspire to become a digital nomad who specializes in full-stack development 
+- ⚡ If you share related interests and have questions, feel free to communicate with me
+<br/>
 
 <!--
 **DANGXingJie/DANGXingJie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
